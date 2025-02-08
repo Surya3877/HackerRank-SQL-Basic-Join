@@ -37,7 +37,7 @@ Country
 | Code2          | char(2)     |
 +----------------+-------------+
 
-PS: City.CountryCode and Country.Code is same key.
+Note: City.CountryCode and Country.Code is same key.
 */
 
 # SQL Query
